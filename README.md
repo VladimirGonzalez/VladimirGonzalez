@@ -1,7 +1,8 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/">Vladimir Gonzalez</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/" target="_blank">Vladimir Gonzalez</a> 👋</h1>
   <img src="https://i.ibb.co/8766S57/banner-2.png">
 </div>
+
 
 <p align="center">
   <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/followers/VladimirGonzalez?style=social" alt="GitHub followers"></a>
