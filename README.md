@@ -3,8 +3,8 @@
 </div>
 <img src="(https://i.ibb.co/8766S57/banner-2.png)">
 
-[![GitHub followers](https://img.shields.io/github/followers/usuario_de_github?style=social)](https://github.com/usuario_de_github)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/usuario_de_linkedin/)
+[![GitHub followers](https://img.shields.io/github/followers/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0//)
 
 ## Sobre mi
 
