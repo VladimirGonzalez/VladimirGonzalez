@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/VladimirGonzalez)">Vladimir Gonzalez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/VladimirGonzalez">Vladimir Gonzalez</a> 👋</h1>
 </div>
-<img src="(https://i.ibb.co/8766S57/banner-2.png)">
+<img src="https://i.ibb.co/8766S57/banner-2.png">
+![GitHub top language for AlejoColazurda](https://img.shields.io/github/languages/top/:AlejoColazurda/:AlejoColazurda)
 
 [![GitHub followers](https://img.shields.io/github/followers/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0//)
