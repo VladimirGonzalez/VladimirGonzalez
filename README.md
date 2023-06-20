@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/" onclick="window.open(this.href); return false;">Vladimir Gonzalez</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/" onclick="window.open(this.href); return true;">Vladimir Gonzalez</a> 👋</h1>
   <img src="https://i.ibb.co/8766S57/banner-2.png">
 </div>
 
