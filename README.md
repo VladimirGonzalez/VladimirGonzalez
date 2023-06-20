@@ -54,7 +54,7 @@ Aquí puedes reemplazar con tus propios proyectos, similar a cómo tu amigo dest
 
 <p align="center">
 <a href="https://github.com/VladimirGonzalez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=usuario_de_github&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usuario_de_github&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VladimirGonzalez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VladimirGonzalez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
