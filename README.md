@@ -13,7 +13,7 @@
 - 👨‍💻 Trabajo en BBVA Argentina
 - 🧠 Me estoy introduciendo en el aprendizaje de técnicas y desarrollo de Inteligencia Artificial
 - 🎲 Disfruto jugando al ajedrez y explorando nuevas formas de expresar mi creatividad y amor por la tecnología
-- 💬 Contacta conmigo en [LinkedIn](https://www.linkedin.com/in/usuario_de_linkedin/)
+- 💬 Contacta conmigo en [LinkedIn](https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/)
 
 <br>
 
