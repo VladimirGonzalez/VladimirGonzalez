@@ -5,6 +5,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0//)
+[![Profile Views](https://komarev.com/ghpvc/?username=VladimirGonzalez)](https://github.com/VladimirGonzalez)
+[![GitHub Followers](https://img.shields.io/github/followers/VladimirGonzalez?label=Followers&style=social)](https://github.com/VladimirGonzalez)
+[![GitHub Stars](https://img.shields.io/github/stars/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
+[![GitHub Contributions](https://img.shields.io/github/last-commit/VladimirGonzalez/VladimirGonzalez?label=Contributions)](https://github.com/VladimirGonzalez)
+[![GitHub License](https://img.shields.io/github/license/VladimirGonzalez/VladimirGonzalez)](https://github.com/VladimirGonzalez)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/VladimirGonzalez/VladimirGonzalez)](https://github.com/VladimirGonzalez)
+
 
 ## Sobre mi
 
