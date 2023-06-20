@@ -1,16 +1,18 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/VladimirGonzalez">Vladimir Gonzalez</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://github.com/VladimirGonzalez">Vladimir Gonzalez</a> 👋</h1>
+  <img src="https://i.ibb.co/8766S57/banner-2.png">
 </div>
-<img src="https://i.ibb.co/8766S57/banner-2.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0//)
-[![Profile Views](https://komarev.com/ghpvc/?username=VladimirGonzalez)](https://github.com/VladimirGonzalez)
-[![GitHub Followers](https://img.shields.io/github/followers/VladimirGonzalez?label=Followers&style=social)](https://github.com/VladimirGonzalez)
-[![GitHub Stars](https://img.shields.io/github/stars/VladimirGonzalez?style=social)](https://github.com/VladimirGonzalez)
-[![GitHub Contributions](https://img.shields.io/github/last-commit/VladimirGonzalez/VladimirGonzalez?label=Contributions)](https://github.com/VladimirGonzalez)
-[![GitHub License](https://img.shields.io/github/license/VladimirGonzalez/VladimirGonzalez)](https://github.com/VladimirGonzalez)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/VladimirGonzalez/VladimirGonzalez)](https://github.com/VladimirGonzalez)
+<p align="center">
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/followers/VladimirGonzalez?style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://komarev.com/ghpvc/?username=VladimirGonzalez" alt="Profile Views"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/followers/VladimirGonzalez?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/stars/VladimirGonzalez?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/last-commit/VladimirGonzalez/VladimirGonzalez?label=Contributions" alt="GitHub Contributions"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/license/VladimirGonzalez/VladimirGonzalez" alt="GitHub License"></a>
+  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/repo-size/VladimirGonzalez/VladimirGonzalez" alt="GitHub Repository Size"></a>
+</p>
 
 
 ## Sobre mi
