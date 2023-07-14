@@ -32,7 +32,7 @@
 ## Habilidades
 
 - Lenguajes de programación: Javascript, COBOL, Python
-- Desarrollo Web: HTML5, CSS3, JavaScript, React
+- Desarrollo Web: HTML5, CSS3, JavaScript, React, Node.js
 - Trabajo en equipo y metodologías Agile
 - Técnicas y desarrollo de Inteligencia Artificial: Machine Learning y NLP en Python
 
