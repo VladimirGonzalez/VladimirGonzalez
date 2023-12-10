@@ -22,7 +22,7 @@
 
 - 💻 Ingeniero en formación y apasionado por la programación
 - 🧑‍🎓 Estudiante de ingeniería en la Universidad Nacional del Sur (UNS)
-- 👨‍💻 Trabajo en BBVA Argentina
+- 👨‍💻 Programador freelance y Editor profesional de contenido.
 - 🧠 Me estoy introduciendo en el aprendizaje de técnicas y desarrollo de Inteligencia Artificial
 - 🎲 Disfruto jugando al ajedrez y explorando nuevas formas de expresar mi creatividad y amor por la tecnología
 - 💬 Contacta conmigo en [LinkedIn](https://www.linkedin.com/in/vladimir-gonzalez-77a3291b0/)
