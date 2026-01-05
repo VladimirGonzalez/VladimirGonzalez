@@ -119,7 +119,8 @@ Soy **Sr COBOL Developer (Mainframe)** y **Full-Stack Developer** con foco en **
 ### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/VladimirGonzalez">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VladimirGonzalez&show_icons=true&theme=algolia&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGonzalez&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=VladimirGonzalez&show_icons=true&theme=algolia&include_all_commits=true&cache_seconds=86400" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGonzalez&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400" />
   </a>
 </p>
+
