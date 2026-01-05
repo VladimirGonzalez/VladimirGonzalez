@@ -113,6 +113,3 @@ Soy **Sr COBOL Developer (Mainframe)** y **Full-Stack Developer** con foco en **
 - Español: Nativo  
 - Inglés: B2 (conversacional)  
 - Portugués: Intermedio  
-
---
-
