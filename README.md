@@ -4,43 +4,119 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/VladimirGonzalez"><img src="https://img.shields.io/github/followers/VladimirGonzalez?style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/vladimirgonzalez-ar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:vladimir.gonzalez.352@hotmail.com"><img src="https://img.shields.io/badge/Email-vladimir.gonzalez.352%40hotmail.com-blue" alt="Email"></a>
-  <a href="tel:+5493329627578"><img src="https://img.shields.io/badge/Phone-%2B54%209%203329%20627578-green" alt="Teléfono"></a>
+  <a href="https://github.com/VladimirGonzalez">
+    <img src="https://img.shields.io/github/followers/VladimirGonzalez?style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/vladimirgonzalez-ar/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:vladimir.gonzalez.352@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-vladimir.gonzalez.352%40hotmail.com-blue" alt="Email">
+  </a>
+  <a href="tel:+5493329627578">
+    <img src="https://img.shields.io/badge/Phone-%2B54%209%203329%20627578-green" alt="Teléfono">
+  </a>
 </p>
 
-## Sobre mí
-- 🎓 Estudiante de Ingeniería en Computación (UNS) – cursados 2 años  
-- 💼 Analista Programador COBOL en Mainframe OS/390 (BBVA)  
-- 🖥️ Full-Stack/Web Frontend: React, Next.js, Node.js, Python y PHP (CakePHP, Laravel)  
-- 📈 Enfoque en performance web, SSR y accesibilidad  
-- 🤖 Traductor y colaborador en la Documentación Oficial de Python en Español  
-- ♟️ Apasionado por el ajedrez y la innovación tecnológica  
-- 💬 Conectemos en [LinkedIn](https://www.linkedin.com/in/vladimirgonzalez-ar/)
+---
 
-## Habilidades
-- **Lenguajes:** COBOL, Python, JavaScript/TypeScript, SQL (DB2, MySQL)  
-- **Frontend:** React, Next.js, HTML5, CSS3 (Bootstrap, Sass)  
-- **Backend:** Node.js, Express, CakePHP, Laravel  
-- **Bases de datos:** DB2, MySQL, Firebase, Realm DB  
-- **Testing:** Jest (unitarias e integración)  
-- **Herramientas:** Git, Control-M, Serena Changeman, JIRA, GitHub Actions  
-- **Metodologías:** Scrum, Kanban, CI/CD, SSR
+## 🚀 Sobre mí
+Soy **Sr COBOL Developer (Mainframe)** y **Full-Stack Developer** con foco en **Oracle APEX (Experto)**, **WordPress/CMS**, **Diseño Web**, **Branding/Logos** y **Marketing Digital**.
 
-## Proyectos destacados
+- 💼 **Sr COBOL Developer** (Mphasis) — remoto (EE.UU.)
+- 🌍 **Freelancer Full-time** (Upwork) — clientes internacionales
+- 🧩 **Oracle APEX (Experto)**: apps empresariales, SQL/PLSQL, integraciones y APIs con ORDS
+- 🧱 **WordPress & CMS**: desarrollo, personalización, performance, SEO técnico y seguridad básica
+- 🎨 **Diseño Web + Logos**: identidad visual, UI consistente, landing pages orientadas a conversión
+- 📈 **Publicidad & Marketing Digital**: estrategia, contenido, campañas (Meta Ads / Google Ads), métricas y optimización
+- 🤖 Colaborador/traductor en documentación técnica (Python Docs ES)
+- ♟️ Ajedrez + tecnología + automatización
+
+📩 Conectemos: [LinkedIn](https://www.linkedin.com/in/vladimirgonzalez-ar/) · ✉️ vladimir.gonzalez.352@hotmail.com
+
+---
+
+## 🧰 Tech Stack & Herramientas
+**Oracle / Backend**
+- Oracle APEX (Experto), Oracle Database, SQL, PL/SQL, ORDS (REST)
+- Node.js, Express, Python, PHP (CakePHP, Laravel)
+
+**Frontend**
+- React, Next.js, HTML5, CSS3 (Bootstrap, Sass), JavaScript/TypeScript
+- Performance web (SSR, optimización, accesibilidad)
+
+**CMS**
+- WordPress (customización, themes, optimización, mantenimiento)
+
+**Mainframe**
+- COBOL, DB2, CICS, JCL, TSO/ISPF
+- Control-M, Serena Changeman, JIRA
+
+**UX/UI & Diseño**
+- Figma (wireframes + prototipos), Illustrator / Photoshop (branding y piezas)
+
+**DevOps / Calidad**
+- Git/GitHub, GitHub Actions (CI/CD), testing (Jest)
+
+---
+
+## 💼 Experiencia (resumen)
+- **Mphasis** — Sr COBOL Developer (jul. 2025 – actualidad)  
+  Mantenimiento y optimización de aplicaciones COBOL en mainframe; soporte evolutivo/correctivo y colaboración remota.
+
+- **Upwork** — Professional Freelancer (dic. 2023 – actualidad)  
+  Webs responsivas (React/Next), UI/UX (Figma), CI/CD, integraciones, gestión end-to-end con clientes internacionales.
+
+- **Dualcomm.ar** — Cofundador (jun. 2015 – actualidad)  
+  Soluciones tecnológicas, infraestructura de software y servicio integral.
+
+- **BBVA** — Software Engineering Analyst (nov. 2021 – nov. 2023)  
+  Desarrollo y mantenimiento en mainframe (COBOL/DB2/CICS/JCL/TSO-ISPF), gestión de incidentes.
+
+- **Autónomo** — Programador Técnico (may. 2019 – dic. 2020)  
+  Desarrollo de aplicaciones web y soporte técnico.
+
+---
+
+## 🌟 Servicios / En qué puedo ayudarte
+- **Oracle APEX**: desarrollo de apps, dashboards, formularios, reportes, seguridad, automatizaciones e integraciones REST (ORDS)
+- **WordPress/CMS**: sitios institucionales, mantenimiento, performance, SEO técnico y mejoras UX
+- **Diseño Web + Branding**: landing pages, UI/UX, diseño de logos e identidad visual
+- **Marketing Digital**: campañas pagas (Meta/Google), contenido, medición y optimización por métricas
+
+---
+
+## 📌 Proyectos destacados
 - **Documentación de Python en Español**  
-  Traducción colaborativa de la documentación oficial de Python — [python-docs-es](https://github.com/VladimirGonzalez/python-docs-es)
+  Traducción colaborativa — [python-docs-es](https://github.com/VladimirGonzalez/python-docs-es)
 
 - **Magnifresh.com**  
-  Ciclo completo de desarrollo web con React/Next.js: prototipado, SSR, APIs de inventario en tiempo real y optimización de Core Web Vitals.
+  Desarrollo web con React/Next.js: prototipado, SSR, integraciones y optimización de performance (Core Web Vitals).
 
 - **Dualcomm.ar**  
-  Desarrollo de la web corporativa de Dualcomm.ar, implementando una interfaz responsiva con React/Next.js, formulario de solicitudes de servicio, integración de map y SEO optimizado para dispositivos móviles.
+  Web corporativa: interfaz responsiva, formulario de solicitudes, SEO mobile-friendly.
 
-<br>
+- **Oracle APEX (Proyectos privados/empresariales)**  
+  Desarrollo de aplicaciones internas y tableros de gestión con integraciones vía APIs (cuando aplique).
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+## 🎓 Educación & Certificaciones
+- **Universidad Nacional del Sur (UNS)** — Ingeniería en Computación (cursados 2 años)
+- **Coderhouse** — Marketing Digital (Publicidad y Community Manager)
+- **Coderhouse** — Diplomatura Full Stack Web Development
+- **CDA Informática** — MAINFRAME IBM | TSO ISPF | COBOL Programming
+
+---
+
+## 🌍 Idiomas
+- Español: Nativo  
+- Inglés: B2 (conversacional)  
+- Portugués: Intermedio  
+
+---
+
+### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/VladimirGonzalez">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VladimirGonzalez&show_icons=true&theme=algolia&include_all_commits=true"/>
